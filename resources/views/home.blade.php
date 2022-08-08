@@ -32,7 +32,7 @@
                                     </div>
                                     <div class="details">
                                         <div class="sort-name h5   font-weight-bold text-primary text-uppercase mb-1">
-                                            {{$user->name}} - {{$user->id}}</div>
+                                            {{$user->name}}</div>
                                         <div class="text-xs mb-0 font-weight-bold text-gray-800">{{$user->occupation}}</div>
                                     </div>
                                 </div>
