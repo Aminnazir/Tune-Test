@@ -1,0 +1,31 @@
+.user-card{}
+.user-card .avatar{}
+.user-card .avatar img{
+    border-radius: 37px;
+    width: 45px;
+    height: 45px;
+    margin-right: 10px;
+}
+.user-card .avatar .text-avatar{
+    background: #4e73df;
+    color: #fff;
+    font-size: 18pt;
+    font-weight: bold;
+    border-radius: 37px;
+    width: 45px;
+    height: 45px;
+    display: block;
+    text-align: center;
+    line-height: 45px;
+    margin-right: 10px;
+}
+.user-card .details{}
+.user-card .agg{}
+.user-card .agg .chart{}
+.user-card .agg .states{}
+.user-card .agg .states .states-count{
+    font-size: 15pt;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.user-card .agg .states .states-title{}
